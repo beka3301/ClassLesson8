@@ -22,6 +22,7 @@ public class Main {
         Farm farm1 = new Farm("Beks", cows, sheep, hourses);
         Farm farm2 = new Farm("Siu", cow1, sheep1, hourse1);
         System.out.print(farm1);
+        System.out.println(farm2);
 
     }
 }
